@@ -1,0 +1,38 @@
+[
+  {
+    "uuid": "69e1a35f-924b-31e3-87b2-fd0c526ba82c",
+    "name": "KhanhMomo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a2950dd0-b3d6-4ab5-9ceb-2a341a218acb",
+    "name": "Thy",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b2c3231b-3b24-320f-acb9-3080e2b39a49",
+    "name": "neptune",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "5c7d791b-654f-450f-a199-b3e27ed90223",
+    "name": "Neptune",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1d998b1b-df5f-32f2-a0b9-bc37678108bf",
+    "name": "ThyDZ",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c76fc875-b27a-3243-bffc-97a47aff47b8",
+    "name": "GoodGame",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
